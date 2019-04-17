@@ -1,0 +1,49 @@
+---
+title: "파이썬으로 배우는 경영수학"
+subtitle: "첫번쩨"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 파이썬 설치
+
+
+## 파이썬에서 연산
+파이썬
+```{python, prompt=T}
+1+1
+-5-7
+3*(-2)
+```
+
+## Python Test
+```{python, prompt=T}
+a = 3
+b = 2
+a + b
+```
+
+## GitHub Documents
+
+This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
+
+## Including Code
+
+You can include R code in the document as follows:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

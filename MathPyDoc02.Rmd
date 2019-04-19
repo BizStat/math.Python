@@ -10,7 +10,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-> 이장에서살펴볼내용은
+> 이장에서살펴볼내용은 선형대수
 
 ## 파이썬 설치
 은
